@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 8
+names: ['come_here','Hello','IloveYou','No','ok','Please','Thanks','Yes']
